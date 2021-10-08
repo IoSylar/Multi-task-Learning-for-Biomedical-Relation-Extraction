@@ -1,0 +1,9 @@
+0	VFalse	2012-06-08 09:30 AM BLOOD WBC - 10.1 RBC - 4.35 * @test$ - 14.2 Hct - 39.9 * MCV - 92 @test$ - 32.6 * MCHC - 35.6 * RDW - 12.4 Plt Ct - 151
+1	TrAP	1. @problem$ status post non-ST-elevation myocardial infarction in 2009-05-05 , status post cardiac catheterization with @treatment$ in 05/2001 .
+2	TrNAP	"2. His non-essential medications that may have been contributing to @problem$ were discontinued ; those included Temocillin , Nortriptyline , Haldol , Lorazepam , @treatment$ , Bupropion , and Gabapentin ."
+3	TeRP	The patient also had @problem$ done on 10/10/97 that showed @test$ with proximal distraction .
+4	PIP	As the patient became more awake , he still remained @problem$ and @problem$ .
+5	TrCP	Gastroenteritis is possible but she has no vomiting and only @problem$ with @treatment$ .
+6	TrIP	@treatment$ was under good control with @problem$ and she was deemed suitable for discharge .
+7	TeCP	@problem$ is seen , most likely correlation to clinical history is recommended and further evaluation of @test$ or short-term ultrasounds for follow-up was recommended .
+8	TrWP	She also had an episode of @treatment$ with some emesis , after being treated with @problem$ with no relief , a nasogastric tube was placed which drained 1200 cc of bilious fluid .

@@ -1,0 +1,90 @@
+0	VFalse	This will be followed by a trial of @treatment$ , and then by @treatment$ or replacement and probable tricuspid annuloplasty by Dr. Riemund C. Wave .
+1	VFalse	Go to an Emergency Room if you experience symptoms including , but not necessarily limited to : new and continuing nausea , @problem$ , fevers ( >101.5 F ) , @problem$ , or shortness of breath .
+2	VFalse	@test$ sent to pathology included peritoneal washings and @test$ and falciform nodules .
+3	VFalse	He was admitted to the cardiac surgery service for @treatment$ with @treatment$ and coronary artery bypass graft .
+4	VFalse	"Sodium 139 ; potassium 4.1 ; BUN 15 ; creatinine 1.1 ; magnesium 1.6 ; SGPT 19 ; SGOT 20 ; alkaline phosphatase 66 ; @test$ 0.6 ; direct bilirubin 0.2 ; total cholesterol 234 ; triglycerides 274 ; HDL 44 ; LDL 135 ; hemoglobin A1c 6.7 ; @test$ 6.1 ; hematocrit 36.4 ; platelet count 201 ."
+5	VFalse	@test$ 7.8 with 86% polymorphonuclear cells , 11.1 lymphocytes , hemoglobin 14.3 , hematocrit 40.5 , MCV 88 , INR 1.0 , PTT 24.7 , @test$ 12.3 , platelet count 295,000 , glucose 81 , BUN 15 , creatinine 0.8 , sodium 142 , potassium 4.2 , chloride 104 , CO2 26 , calcium 9.3 , phosphate 4.8 , magnesium 2.3 .
+6	VFalse	Patient needs to have labs every Monday and Thursday including @test$ , chem-10 , AST , ALT , alkaline phosphatase , albumin , total bilirubin and @test$ need to be obtained .
+7	VFalse	82 y/o f w h/o afib , SSS s/p pacer 05-08 c/b PTX requiring @problem$ , CAD , who was readmitted 05-24 with ARF and lethargy , found to have a large pericardial effusion and bilateral pleural effusions , with echo showing no evidence of @treatment$ , who is transferred for possible pericardial effusion drainage and treatment of CHF , as well as drainage of bilateral pleural effusions .
+8	VFalse	"She came to the Emergency Department on the 2011-03-10 , with temperature of 99.0 F .; @test$ of 97/50 ; heart rate 100 ; respirations 27 ; @test$ 84% on room air and 94% on two liters ."
+9	VFalse	"On admission the patient &apos;s biochemistry showed @test$ of 140 , @test$ 4.0 , chloride 107 , bicarb 14 , BUN 63 , creatinine 5.8 , blood sugar 133 ."
+10	TeRP	Given his history and @problem$ , Mr. Anders presented with @test$ most consistent with meniscal tear .
+11	TeCP	2. History of @problem$ times 3 , benign in 2007 , @test$ due to in 2010 .
+12	TeRP	"The work-up for the extent of the patient &apos;s disease included @problem$ which revealed multiple metastatic lesions in the vertebral bodies ; a T3 lesion extending from the body to the right neural for amina with @test$ ."
+13	PIP	There was @problem$ and @problem$ .
+14	PIP	46 - yo-man w/ cocaine abuse presents w/ @problem$ and DOE likely from diastolic heart failure in the setting of cocaine use complicated by @problem$ .
+15	TeRP	8. @test$ with @problem$ of 1.4 .
+16	TrCP	54 yo F with Crohn 's s/p @treatment$ and subsequent @problem$ with port-a-cath placement for TPN who presents with progressive right sided chest pain that comes in waves .
+17	PIP	@problem$ for @problem$ included a positive family history and an elevated cholesterol level .
+18	TeRP	"The patient was admitted for her gait disorder with other @test$ on @problem$ including anisocoria , which , by the patient &apos;s report , had been noted several months earlier ."
+19	PIP	The left anterior descending had a severe 80% proximal stenosis with @problem$ consistent with @problem$ .
+20	TeRP	A chest x-ray showed clearing of the opacities in @test$ that were consistent with pulmonary edema because he continued to have @problem$ .
+21	PIP	There is @problem$ with components of @problem$ tracking from the mastoid air cells .
+22	TrAP	6. @problem$ 325 mg Tablet Sig : Two ( 2 ) Tablet PO Q6H ( every 6 hours ) as needed for @treatment$ or pain .
+23	TrAP	2) @treatment$ : @problem$ was held on admission in light of acute infection .
+24	TeRP	It was believed that @test$ on admission in addition to the wall motion abnormalities she underwent a non-Q wave myocardial infarction prior to resulted in @problem$ .
+25	TrNAP	Ms. Lenkpruskihkooglekih is a 63-year-old lady with a history of frequent premature ventricular contractions and infrequent short runs of non-sustained ventricular tachycardia ( one four-beat run ) in 1991 , for which several antiarrhythmic agents including Propranolol , Quinidine , Procainamide , Tenormin , Norpace , Corgard , and @problem$ were used , but were stopped because of @treatment$ . 
+26	TrIP	He was noted to be in @treatment$ on several episodes receiving @problem$ each time with improvement .
+27	TrCP	He received @problem$ , limited by @treatment$ .
+28	TrAP	"Is significant for spinal stenosis and a series of operations including @treatment$ of @problem$ ; cataract implants ; two partial hysterectomies ; and an appendectomy ."
+29	TrCP	Penicillin for which she reports a rash and @problem$ when taking @treatment$ .
+30	TeCP	For @test$ , this patient went for @problem$ .
+31	PIP	Probable @problem$ , consistent with @problem$
+32	TeRP	@problem$ ( Youville Hospital 2020-03-09 ): @test$ with moderate L pleural effusion .
+33	PIP	There is @problem$ through an inferior branch of the left anterior descending to @problem$ and a persistent branch of the circumflex to PA branch fistula which anatomically were not suitable for coil embolization .
+34	TeRP	"@test$ is notable for a regular rate and rhythm ; no murmurs , @problem$ or gallops ."
+35	TeRP	The patient 's lung examination revealed the lungs to be clear to auscultation bilaterally , no crepitus , and @test$ was grossly apparent on @problem$ .
+36	TrAP	We decided given her age that she would not be a good candidate for cardioversion for @problem$ nor would she be a good candidate for @treatment$ .
+37	TeCP	We will @problem$ for signs of @test$ according to the CIWA scale .
+38	PIP	In addition to her usual neuropathy pain , the pt initially appeared to have @problem$ from @problem$ as well .
+39	TeRP	@problem$ showed @test$ with period of ventricular bigemini .
+40	TrAP	"The patient &apos;s penile ulcer was cultured and grew @treatment$ and the patient was started on @problem$ ."
+41	TrAP	He did have @problem$ and was started on @treatment$ .
+42	TrAP	The patient is status post @problem$ and resection and reconstruction for @treatment$ .
+43	TrIP	In the Emergency Department he received aspirin , @problem$ , heparin drip , Dilaudid , and TNK with decreased in @treatment$ but without resolution of symptoms .
+44	TrAP	There were no @treatment$ , which required @problem$ .
+45	TrAP	"Tylenol , 650 mg p.o. q 4 prn ; Allopurinol , 100 mg p.o. q.d. ; Peridex mouthwash , 10 ml b.i.d.; cholysteramineresin , 4 grams p.o. q.d. ; clotrimazole , one troche p.o. q.i.d. ; Fentanyl patch , 100 mcg per hour topical q 72 hours ; glipizide , 10 mg p.o. q.d.; Atarax , 25 operating table 50 mg p.o. q 6 to 8 hours prn itching ; regular sliding scale insulin ; KBL mouthwash , 15 ccp .o. q.d. prn mouth discomfort ; Lactulose , 30 ml p.o. q.i.d. that was started on January 30 , for no bowel movements with instructions to continue until bowel movement and then decrease to b.i.d. or q.d. ; @treatment$ , 2% , 10 ml UR q 3 to 4 hours prn for @problem$ ; Ativan , 0.25 to 0.5 mg IV q 4 to 6 hours prn anxiety with instructions to use caution ."
+46	PIP	His stools were noted to be @problem$ at the outside hospital and there was still concern for possible GI bleed given continued Guaiac positive stools during this admission and @problem$ from 39 to 33 .
+47	TrIP	It was his impression that @problem$ was controlled on @treatment$ .
+48	PIP	9. Left UE markedly @problem$ than right UE , this could be from fracture , or there could be a clot , @problem$ also a possiblity .
+49	TeCP	The patient was advised that he needs to speak with his PCP about medication for antianxiety and / or @problem$ or counseling to help control @test$ .
+50	TeCP	He then underwent @test$ to rule out @problem$ .
+51	TrAP	1. Left transverse mid shaft radial fracture with @problem$ status post @treatment$ and internal fixation .
+52	TrCP	The patient developed @treatment$ after @problem$ .
+53	TrCP	The pt was begun on @problem$ and was noted to have @treatment$ > 50% after infusion began , hepain was d/c 'd.
+54	TrCP	The likely cause of @problem$ was a combination of surgery and Intensive Care Unit stay in addition to @treatment$ .
+55	TrNAP	No creams , @problem$ or ointments to @treatment$ .
+56	TeCP	3) @problem$ : @test$ improved from 2.1 to 1.3 at time of discharge .
+57	TrCP	Pt was recently admitted to The Hospital for Orthopedics from 12-07 thorugh 12-14 with hypotension thought to be secondary to @treatment$ at @problem$
+58	TrCP	Of note , the patient has @treatment$ with @problem$ and requires parenteral morphine sulfate for pain control during dressing changes .
+59	TrWP	Initially this improved on Clindamycin and Cefotetan , but @problem$ recurred on @treatment$ .
+60	TrCP	3. ? Parkinsons vs. @problem$ from @treatment$
+61	TeCP	The patient subsequently underwent a CT scan angiogram with @problem$ to assess the @test$ versus enlarged pancreas head .
+62	TrCP	History of gastrointestinal intolerance to Tetracycline , Erythromycin , declomycin associated with edema and rash , Talwin associated with disorientation and gastrointestinal symptoms , Dilantin has caused rash and edema , @problem$ associated with @treatment$ and gastrointestinal symptoms , Demerol unclear .
+63	TrIP	"The patient became @problem$ ; this resolved with @treatment$ ."
+64	TrIP	In the Emergency Department he received aspirin , nitroglycerin drip , heparin drip , @problem$ , and TNK with decreased in @treatment$ but without resolution of symptoms .
+65	TeCP	A lucency and irregularity of the glenoid , possibly representing @problem$ , was also seen , and @test$ was therefore obtained in order to evaluate this area .
+66	TrNAP	No @treatment$ , lotions , powders , or ointments to @problem$
+67	TeCP	Together with the interval development of bilateral pleural effusions , this indicates cardiac insufficiency ( or alternatively @problem$ ) and @test$ may be indicated for further evaluation .
+68	TeCP	He subsequently became hypotensive and @test$ in the Catheterization Laboratory which responded to IV fluids , dopamine , Atropine , and he was then transferred to the CCU for @problem$ .
+69	TrNAP	Shower , no baths , no @problem$ , creams or powders to @treatment$ .
+70	TrIP	The patient was initially treated with @treatment$ which was subsequently weaned off after @problem$ improved .
+71	TrIP	@problem$ was well controlled with @treatment$ at this time .
+72	TrNAP	There was some question regarding restarting of @treatment$ given her positive lupus anti-coagulant status as well as the presence of @problem$ .
+73	TrNAP	Ms. Lenkpruskihkooglekih is a 63-year-old lady with a history of frequent premature ventricular contractions and infrequent short runs of non-sustained ventricular tachycardia ( one four-beat run ) in 1991 , for which several antiarrhythmic agents including Propranolol , Quinidine , Procainamide , Tenormin , Norpace , @treatment$ , and Flecainide were used , but were stopped because of @problem$ . 
+74	TrNAP	She was initially started on @problem$ , but this was stopped as she was @treatment$ .
+75	TrIP	She was recently hospitalised from 02-23 / 03-04 for @treatment$ at which time she underwent @problem$ that ruled out SBP and relieved her abdominal pain .
+76	TrIP	# n/v/ abdominal pain : pt with multiple admissions with similar complaints , etiology 02-08 @problem$ , improves considerably with @treatment$ , dilaudid , reglan , pt was tolerating PO meds / diet at time of admission to medical service and was restarted on oral reglan .
+77	TrNAP	Ms. Lenkpruskihkooglekih is a 63-year-old lady with a history of frequent premature ventricular contractions and infrequent short runs of non-sustained ventricular tachycardia ( one four-beat run ) in 1991 , for which several antiarrhythmic agents including Propranolol , Quinidine , Procainamide , Tenormin , @problem$ , Corgard , and Flecainide were used , but were stopped because of @treatment$ . 
+78	TrIP	@treatment$ , responsive to @problem$ .
+79	TrNAP	All of this occurred in the setting of aggressive BP management with metoprolol 25 BID , HCTZ / Triampterene ( as a replacment for @treatment$ due to @problem$ ), Benicar 20 mg QD , and Imdur 30 mg QD .
+80	TrNAP	Shower , no baths , no lotions , @problem$ or powders to @treatment$ .
+81	TrWP	Her abdomen remained tender and @treatment$ despite attempted @problem$ .
+82	TrWP	# Foot ulcer : @problem$ s/p @treatment$ but never healed .
+83	TrWP	This is a 47 - year-old male with a past medical history of type 2 diabetes , high cholesterol , hypertension , and coronary artery disease , status post percutaneous transluminal coronary angioplasty times two , who presented with @treatment$ refractory to @problem$ and TNK , now status post Angio-Jet percutaneous transluminal coronary angioplasty and stent of proximal left anterior descending artery and percutaneous transluminal coronary angioplasty of first diagonal with intra-aortic balloon pump placement .
+84	TrWP	This is a 47 - year-old male with a past medical history of type 2 diabetes , high cholesterol , hypertension , and coronary artery disease , status post percutaneous transluminal coronary angioplasty times two , who presented with @problem$ refractory to medical treatment and @treatment$ , now status post Angio-Jet percutaneous transluminal coronary angioplasty and stent of proximal left anterior descending artery and percutaneous transluminal coronary angioplasty of first diagonal with intra-aortic balloon pump placement .
+85	TrWP	She also had an episode of @treatment$ with some emesis , after being treated with @problem$ with no relief , a nasogastric tube was placed which drained 1200 cc of bilious fluid .
+86	TrWP	Although @problem$ were adjusted he continued to be @treatment$ and there was difficulty weaning him off the vent .
+87	TrWP	She was given @treatment$ upon call-out of the ICU , and additional boluses of IV lasix , 200 mg then 300 mg IV were given with a good response , however , she remained @problem$ .
+88	TrWP	@problem$ has not been relieved by Darvocet and @treatment$ .
+89	TrWP	She continued to put out @treatment$ throughout the admission , despite aggressive diuresis with IV lasix gtt and @problem$ .

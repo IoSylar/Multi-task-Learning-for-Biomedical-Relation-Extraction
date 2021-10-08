@@ -1,0 +1,9 @@
+0	VFalse	@test$ was .7 , @test$ 131 , white blood count was 10,000 , hematocrit was 40 , liver enzymes normal range .
+1	TrAP	Colace 100 mg po bid , @problem$ two puffs inhaled qid prn @treatment$ and asthma symptoms .
+2	TeRP	@problem$ showed no evidence of @test$ .
+3	PIP	If @problem$ continue to be @problem$ return to V or call 1-903-263-5797
+4	TrIP	Temp noted to be @treatment$ at 94 and she was placed on @problem$ which improved temp to 96.7 .
+5	TeCP	He underwent @test$ to rule out @problem$ .
+6	TrCP	# Anemia : Hct dropped following @problem$ and there was concern for @treatment$ .
+7	TrWP	# Hypotension : Pt became @problem$ following the large volume paracentesis despite @treatment$ .
+8	TrNAP	The patient has had @problem$ during @treatment$ .

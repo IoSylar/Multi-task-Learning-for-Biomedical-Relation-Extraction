@@ -1,0 +1,5 @@
+0	DDI-false	@DRUG$s: Thyroxine increases the adrenergic effect of catecholamines such as epinephrine and @DRUG$.
+1	DDI-effect	- Drugs whose efficacy is impaired by @DRUG$ include: anticoagulants, corticosteroids, coumarin, @DRUG$, doxycycline, estrogens, furosemide, oral contraceptives, rifampin, quinidine, theophylline, vitamin D.
+2	DDI-advise	Caution should be taken when @DRUG$ is used concomitantly with medications that are predominantly metabolized by CYP2D6 and which have a narrow therapeutic window, such as flecainide, thioridazine and @DRUG$ (see CLINICAL PHARMACOLOGY).
+3	DDI-mechanism	Thus @DRUG$ appeared to alter the renal excretion of both @DRUG$ and creatinine, an endogenous marker of renal function.
+4	DDI-int	Data from in vitro studies of benzodiazepines other than @DRUG$ suggest a possible drug interaction for the following: @DRUG$, cyclosporine, amiodarone, nicardipine, and nifedipine.

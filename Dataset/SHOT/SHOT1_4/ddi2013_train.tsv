@@ -1,0 +1,5 @@
+0	DDI-false	Since amiodarone is a substrate for @DRUG$, there is the potential that the use of St. John s Wort in patients receiving amiodarone could result in reduced @DRUG$ levels.
+1	DDI-advise	Therefore, co-administration of @DRUG$ with drugs that are metabolized by CYP2D6 isoenzyme including certain antidepressants (e.g., @DRUG$, imipramine, desipramine, paroxetine, fluoxetine, sertraline), antipsychotics (e.g., haloperidol, risperidone, thioridazine), beta-blockers (e.g., metoprolol), and Type 1C antiarrhythmics (e.g., propafenone, flecainide), should be approached with caution and should be initiated at the lower end of the dose range of the concomitant medication.
+2	DDI-int	Possible drug interactions of @DRUG$ with @DRUG$ or with other anticholinesterase agents.
+3	DDI-mechanism	"Ascorbic acid: Doses of ascorbic acid (@DRUG$) 1 g/day have been reported to increase plasma concentration of @DRUG$ by ~47%, possibly by inhibiting conjugation;"
+4	DDI-effect	@DRUG$ in combination with other narcotic analgesics, general anesthetics, @DRUG$, tranquilizers, sedative-hypnotics, or other CNS depressants (including alcohol) has additive depressant effects.
