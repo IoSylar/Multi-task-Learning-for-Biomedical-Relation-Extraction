@@ -1,0 +1,68 @@
+chemprot:
+  data_format: PremiseOnly
+  enable_san: false
+  labels:
+  - CPR:3
+  - CPR:4
+  - CPR:5
+  - CPR:6
+  - CPR:9
+  - CPRFalse
+  metric_meta:
+  - ACC
+  - F1_chem
+  - Precision_chem
+  - Recall_chem
+  loss: CeCriterion
+  kd_loss: MseCriterion
+  adv_loss: SymKlCriterion
+  n_class: 6
+  task_type: Classification 
+
+
+
+
+
+ddi2013:
+  data_format: PremiseOnly
+  enable_san: false
+  labels:
+  - DDI-effect
+  - DDI-mechanism 
+  - DDI-advise
+  - DDI-int
+  - DDI-false
+  metric_meta:
+  - ACC
+  - F1_ddi
+  - Precision_ddi
+  - Recall_ddi
+  loss: CeCriterion
+  kd_loss: MseCriterion
+  adv_loss: SymKlCriterion
+  n_class: 5
+  task_type: Classification
+
+i2b2:
+  data_format: PremiseOnly
+  enable_san: false
+  labels:
+  - PIP
+  - TeCP
+  - TeRP
+  - TrAP
+  - TrCP
+  - TrIP
+  - TrNAP
+  - TrWP
+  - VFalse
+  metric_meta:
+  - ACC
+  - F1_i2b2
+  - Precision_i2b2
+  - Recall_i2b2
+  loss: CeCriterion
+  kd_loss: MseCriterion
+  adv_loss: SymKlCriterion
+  n_class: 9
+  task_type: Classification
