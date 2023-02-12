@@ -1,7 +1,7 @@
 # Multi-task-Learning-for-Biomedical-Relation-Extraction
-Repository relativa all'implementazione : Multi-task learning for Biomedical Relation Extraction
+Repository for Multi-task learning implementation for Biomedical Relation Extraction.
 # Requirements
-Si deve eseguire il file requirements.txt presente nella cartella mt-dnn. Successivamente sarà necessario disinstallare ed installare l'ultima versione di apex
+You need to run the requirements.txt file in the mt-dnn folder. Then you will need to uninstall and install the latest version of apex.
 ```python
 !pip install -r requirements.txt
 !pip3 uninstall apex
