@@ -1,5 +1,5 @@
-# Multi-task-Learning-for-Biomedical-Relation-Extraction
-Repository for Multi-task learning implementation for Biomedical Relation Extraction.
+# Multi-task-Learning-for-few-shot-Biomedical-Relation-Extraction
+Official repository for the [paper](https://link.springer.com/article/10.1007/s10462-023-10484-6) Multi-task learning for few-shot Biomedical Relation Extraction.
 # Requirements
 You need to run the requirements.txt file in the mt-dnn folder. Then you will need to uninstall and install the latest version of apex.
 ```python
@@ -88,3 +88,12 @@ Predizione
 The few shot learning baselines that were compared are:  [PET](https://github.com/timoschick/pet),  [Protonet](https://github.com/jingyuanz/protonet-bert-text-classification) , [Siamese](https://github.com/subhasisj/Few-Shot-Learning)
 # Notebook
 An example notebook that includes the task similarity phase is available.
+
+# Cite the article
+@article{MultitaskFewShot,
+  title={Multi-task learning for few-shot biomedical relation extraction},
+  author={Moscato V, Napolano G, Postiglione M, Sperlì G},
+  journal={Artificial Intelligence Review},
+  url={https://doi.org/10.1007/s10462-023-10484-6},
+  year={2023}
+}
