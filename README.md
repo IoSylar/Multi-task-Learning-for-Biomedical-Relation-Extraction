@@ -89,11 +89,14 @@ The few shot learning baselines that were compared are:  [PET](https://github.co
 # Notebook
 An example notebook that includes the task similarity phase is available.
 
-# Cite the article
+# Cite the paper
+```
 @article{MultitaskFewShot,
   title={Multi-task learning for few-shot biomedical relation extraction},
   author={Moscato V, Napolano G, Postiglione M, Sperlì G},
   journal={Artificial Intelligence Review},
-  url={https://doi.org/10.1007/s10462-023-10484-6},
+  doi={https://doi.org/10.1007/s10462-023-10484-6},
   year={2023}
 }
+```
+
